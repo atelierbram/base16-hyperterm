@@ -1,0 +1,23 @@
+{
+  "name": "hyperterm-atelier-sulphurpool-dark",
+  "version": "0.1.0",
+  "description": "Hyperterm theme using the dark AtelierSulphurpool colors",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "colors",
+    "theme",
+    "atelier-schemes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atelierbram/hyperterm-atelier-sulphurpool-dark.git"
+  },
+  "author": "Bram de Haan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atelierbram/hyperterm-atelier-sulphurpool-dark/issues"
+  },
+  "homepage": "https://github.com/atelierbram/hyperterm-atelier-sulphurpool-dark#readme"
+}
