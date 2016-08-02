@@ -20,9 +20,9 @@ Generate themes for HyperTerm with Base16-Builder
 2. Rename `base16-solarized-dark.js` to `index.js`
 3. Rename `package.json.txt` and adapt this `package.json` to the choosen theme names.
 4. Open HyperTerm's preferences by pressing `Cmd+,` or manually at `~/.hyperterm.js`.
-5. Find and Update the plugins array to one of the themes from the `index` folder.
+5. Find and Update the local-plugins array to one of the themes from the `index` folder.
 ```js
-  plugins: [
+  localPlugins: [
     'hyperterm-base16-solarized-dark'
   ],
 ```
