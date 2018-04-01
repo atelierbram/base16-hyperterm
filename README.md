@@ -36,7 +36,7 @@ Made with [Base16 Builder](https://github.com/base16-builder/base16-builder), on
 - [@Ghosh](https://github.com/Ghosh/hyperterm-solarized-dark) for [Solarized Dark for HyperTerm](https://github.com/Ghosh/hyperterm-solarized-dark)
 - Base16
   - [@chriskempson](https://github.com/chriskempson)
-  - [@alexbooker](https://github.com/alexbooker)
+  - [@bookercodes](https://github.com/bookercodes)
   - [@aloisdg](https://github.com/aloisdg)
 
 Released under [MIT Licence](http://atelierbram.mit-license.org)
