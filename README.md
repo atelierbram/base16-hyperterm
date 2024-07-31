@@ -2,16 +2,16 @@
 
 Generate themes for HyperTerm with Base16-Builder
 
-![screenshot of Base16-Solarized-Dark in HyperTerm](//atelierbram.github.io/syntax-highlighting/assets/img/hyperterm-base16-solarized-dark-screenshot.jpg)
+![screenshot of Base16-Solarized-Dark in HyperTerm](https://atelierbram.github.io/syntax-highlighting/assets/img/hyperterm-base16-solarized-dark-screenshot.jpg)
 <br>Base16-Solarized-Dark
 
-![screenshot of Base16-Solarized-Light in HyperTerm](//atelierbram.github.io/syntax-highlighting/assets/img/hyperterm-base16-solarized-light-screenshot.jpg)
+![screenshot of Base16-Solarized-Light in HyperTerm](https://atelierbram.github.io/syntax-highlighting/assets/img/hyperterm-base16-solarized-light-screenshot.jpg)
 <br>Base16-Solarized-Light
 
-![screenshot of AtelierSulphurpool-Dark in HyperTerm](//atelierbram.github.io/syntax-highlighting/assets/img/hyperterm-atelier-sulphurpool-dark-screenshot.jpg)
+![screenshot of AtelierSulphurpool-Dark in HyperTerm](https://atelierbram.github.io/syntax-highlighting/assets/img/hyperterm-atelier-sulphurpool-dark-screenshot.jpg)
 <br>AtelierSulphurpool-Dark
 
-![screenshot of AtelierSulphurpool-Light in HyperTerm](//atelierbram.github.io/syntax-highlighting/assets/img/hyperterm-atelier-sulphurpool-light-screenshot.jpg)
+![screenshot of AtelierSulphurpool-Light in HyperTerm](https://atelierbram.github.io/syntax-highlighting/assets/img/hyperterm-atelier-sulphurpool-light-screenshot.jpg)
 <br>AtelierSulphurpool-Light
 
 ### Installation
